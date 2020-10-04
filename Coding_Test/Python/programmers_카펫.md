@@ -1,4 +1,4 @@
-#Programmers_카펫
+# Programmers_카펫
 
 ### 문제 설명
 
