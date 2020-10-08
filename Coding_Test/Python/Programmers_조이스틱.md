@@ -33,7 +33,7 @@ name = "JAN" : return = 23
 
 ---
 
-### 나의 풀이
+### 풀이
 
 조이스틱을 움직이는 경우는 2가지로 나뉜다.
 
@@ -100,6 +100,26 @@ def solution(name):
 
     return answer
 ```
+★**칸 이동 결정 방법**
+
+변수
+
+- answer : 조이스틱 동작 횟수
+- direct : 움직이는 방향
+- pos : 배열에서 현재 위치
+- length : 배열 길이
+
+원리
+
+- direct 방향으로 한칸 움직였을 때 "A"가 아닌 경우
+
+    조이스틱 동작 횟수 1증가 하고 이동
+
+- 다음 문자가 "A"인 경우
+direct 방향으로 A가 아닌 문자가 나올때 까지 이동 후 동작 횟수를 moving_cnt_01에 저장
+동일한 원리로 direct 반대 방향으로 작업 수행 후 moving_cnt_02에 저장
+
+    moving_cnt_01과 moving_cnt_02를 비교해서 더 작은 횟수를 answer에 더하고 더 작은 방향으로 direct 결정
 
 ---
 
