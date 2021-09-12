@@ -2,4 +2,4 @@
 
 ### 수학
 - 진법 변환
-    [Baekjoon_2745](./math/Baekjoon_2745.py)
+    - [Baekjoon_2745](./math/Baekjoon_2745.py)
