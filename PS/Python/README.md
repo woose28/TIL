@@ -16,3 +16,6 @@
 
 ### 그래프
 - [Baekjoon_2644 - 촌수계산](./graph/Baekjoon_2644.py)
+
+### 이분 탐색
+- [Baekjoon_1920 - 수 찾기](./binary_search/Baekjoon_1920.py)
