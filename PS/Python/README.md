@@ -22,6 +22,7 @@
 
 ### 이분 탐색
 - [Baekjoon_1920 - 수 찾기](./binary_search/Baekjoon_1920.py)
+- [Baekjoon_10815 - 숫자 카드](./binary_search/Baekjoon_10815.py)
 
 ### 구현
 - [Baekjoon_21610 - 마법사 상어와 비바라기](./implementation/Baekjoon_21610.py)
