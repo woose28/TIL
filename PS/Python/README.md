@@ -28,3 +28,4 @@
 
 ### 구현
 - [Baekjoon_21610 - 마법사 상어와 비바라기](./implementation/Baekjoon_21610.py)
+- [Baekjoon_14890 - 경사로](./implementation/Baekjoon_14890.py)
