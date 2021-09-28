@@ -13,6 +13,7 @@
 
 ### 동적 계획법
 - [Programmers_광고 삽입](./dynamic_programming/Programmers_광고_삽입.py)
+- [Baekjoon_1904 - 01타일](./dynamic_programming/Baekjoon_1904.py)
 
 ### 그래프
 - [Baekjoon_2644 - 촌수계산](./graph/Baekjoon_2644.py)
