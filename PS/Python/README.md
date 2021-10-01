@@ -39,3 +39,6 @@
 
 ### 문자열
 - [Baekjoon_9012 - 괄호](./string/Baekjoon_9012.py)
+
+### 정렬
+- [Baekjoon_1755 - 숫자놀이](./sorting/Baekjoon_1755.py)
