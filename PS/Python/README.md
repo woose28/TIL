@@ -35,6 +35,7 @@
 - [Baekjoon_21610 - 마법사 상어와 비바라기](./implementation/Baekjoon_21610.py)
 - [Baekjoon_14890 - 경사로](./implementation/Baekjoon_14890.py)
 - [Baekjoon_19237 - 어른 상어](./implementation/Baekjoon_19237.py)
+- [Baekjoon_17779 - 게리맨더링 2](./implementation/Baekjoon_17779.py)
 
 ### 누적 합
 - [Baekjoon_2167 - 2차원 배열의 합](./prefix_sum/Baekjoon_2167.py)
