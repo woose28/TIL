@@ -36,6 +36,7 @@
 - [Baekjoon_14890 - 경사로](./implementation/Baekjoon_14890.py)
 - [Baekjoon_19237 - 어른 상어](./implementation/Baekjoon_19237.py)
 - [Baekjoon_17779 - 게리맨더링 2](./implementation/Baekjoon_17779.py)
+- [Baekjoon_4673 - 셀프 넘버](./implementation/Baekjoon_4673.py)
 
 ### 누적 합
 - [Baekjoon_2167 - 2차원 배열의 합](./prefix_sum/Baekjoon_2167.py)
