@@ -47,3 +47,6 @@
 
 ### 정렬
 - [Baekjoon_1755 - 숫자놀이](./sorting/Baekjoon_1755.py)
+
+### 그리디
+- [Baekjoon_11000 - 강의실 배정](./greedy/Baekjoon_11000.py)
