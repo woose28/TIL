@@ -50,3 +50,6 @@
 
 ### 그리디
 - [Baekjoon_11000 - 강의실 배정](./greedy/Baekjoon_11000.py)
+
+## 조합
+- [Baekjoon_16922 - 로마 숫자 만들기](./combinatorics/Baekjoon_16922.py)
