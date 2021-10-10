@@ -19,6 +19,7 @@
 ### 그래프
 - [Baekjoon_2644 - 촌수계산](./graph/Baekjoon_2644.py)
 - [Baekjoon_9205 - 맥주 마시면서 걸어가기](./graph/Baekjoon_9205.py)
+- [Baekjoon_2468 - 안전 영역](./graph/Baekjoon_2468.py)
 
 - 플로이드-와샬
     - [Baekjoon_11404 - 플로이드](./graph/floyd_warshall/Baekjoon_11404.py)
