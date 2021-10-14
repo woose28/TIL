@@ -34,6 +34,7 @@
 - [Baekjoon_1654 - 랜선 자르기](./binary_search/Baekjoon_1654.py)
 - [Baekjoon_2110 - 공유기 설치](./binary_search/Baekjoon_2110.py)
 - [Baekjoon_2512 - 예산](./binary_search/Baekjoon_2512.py)
+- [Baekjoon_1072 - 게임](./binary_search/Baekjoon_1072.py)
 
 ### 구현
 - [Baekjoon_21610 - 마법사 상어와 비바라기](./implementation/Baekjoon_21610.py)
