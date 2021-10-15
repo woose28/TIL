@@ -59,3 +59,4 @@
 
 ## 조합
 - [Baekjoon_16922 - 로마 숫자 만들기](./combinatorics/Baekjoon_16922.py)
+- [Baekjoon_6603 - 로또](./combinatorics/Baekjoon_6603.py)
