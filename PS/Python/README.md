@@ -44,6 +44,7 @@
 - [Baekjoon_4673 - 셀프 넘버](./implementation/Baekjoon_4673.py)
 - [Baekjoon_5430 - AC](./implementation/Baekjoon_5430.py)
 - [Baekjoon_3085 - 사탕 게임](./implementation/Baekjoon_3085.py)
+- [Baekjoon_20057 - 마법사 상어와 토네이도](./implementation/Baekjoon_20057.py)
 
 ### 누적 합
 - [Baekjoon_2167 - 2차원 배열의 합](./prefix_sum/Baekjoon_2167.py)
