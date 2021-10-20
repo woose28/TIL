@@ -51,6 +51,7 @@
 
 ### 누적 합
 - [Baekjoon_2167 - 2차원 배열의 합](./prefix_sum/Baekjoon_2167.py)
+- [Baekjoon_3020 - 개똥벌레](./prefix_sum/Baekjoon_3020.py)
 
 ### 문자열
 - [Baekjoon_9012 - 괄호](./string/Baekjoon_9012.py)
