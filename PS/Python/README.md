@@ -31,6 +31,7 @@
 - 다익스트라
     - [Baekjoon_1753 - 최단경로](./graph/dijkstra/Baekjoon_1753.py)
     - [Baekjoon_1916 - 최소비용 구하기](./graph/dijkstra/Baekjoon_1916.py)
+    - [Baekjoon_1261 - 알고스팟](./graph/dijkstra/Baekjoon_1261.py)
 
 ### 이분 탐색
 - [Baekjoon_1920 - 수 찾기](./binary_search/Baekjoon_1920.py)
