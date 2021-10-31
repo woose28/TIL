@@ -8,6 +8,7 @@
 
 - 소수
     - [Baekjoon_1929 - 소수 구하기](./math/Baekjoon_1929.py)
+    - [Baekjoon_1979 - 소수 찾기](./math/Baekjoon_1978.py)
 
 ### 브루트포스
 - [Baekjoon_15684 - 사다리 조작](./brute_force/Baekjoon_15684.py)
