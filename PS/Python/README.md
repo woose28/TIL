@@ -3,6 +3,7 @@
 ### 수학
 - [Baekjoon_1037 - 약수](./math/Baekjoon_1037.py)
 - [Programmers_N개의 최소공배수](./math/Programmers_N개의_최소공배수.py)
+- [Baekjoon_2609 - 최대공약수와 최소공배수](./math/Baekjoon_2609.py)
 - 진법 변환
     - [Baekjoon_2745 - 진법 변환](./math/Baekjoon_2745.py)
     - [Baekjoon_11005 - 진법 변환2](./math/Baekjoon_11005.py)
@@ -73,9 +74,9 @@
 - [Baekjoon_1026 - 보물](./greedy/Baekjoon_1026.py)
 - [Baekjoon_11497 - 통나무 건너뛰기](./greedy/Baekjoon_11497.py)
 
-## 조합
+### 조합
 - [Baekjoon_16922 - 로마 숫자 만들기](./combinatorics/Baekjoon_16922.py)
 - [Baekjoon_6603 - 로또](./combinatorics/Baekjoon_6603.py)
 
-## 두 포인터
+### 두 포인터
 - [Baekjoon_2559 - 수열](./two_pointer/Baekjoon_2559.py)
