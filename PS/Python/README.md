@@ -2,6 +2,7 @@
 
 ### 수학
 - [Baekjoon_1037 - 약수](./math/Baekjoon_1037.py)
+- [Programmers_N개의 최소공배수](./math/Programmers_N개의_최소공배수.py)
 - 진법 변환
     - [Baekjoon_2745 - 진법 변환](./math/Baekjoon_2745.py)
     - [Baekjoon_11005 - 진법 변환2](./math/Baekjoon_11005.py)
