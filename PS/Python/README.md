@@ -82,3 +82,6 @@
 
 ### 두 포인터
 - [Baekjoon_2559 - 수열](./two_pointer/Baekjoon_2559.py)
+
+### 자료 구조
+- [Baekjoon_1764 - 듣보잡](./data_structure/Baekjoon_1764.py)
