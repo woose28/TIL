@@ -6,6 +6,7 @@
 - [Baekjoon_2609 - 최대공약수와 최소공배수](./math/Baekjoon_2609.py)
 - [Baekjoon_1735 - 분수 합](./math/Baekjoon_1735.py)
 - [Baekjoon_2950 - 에라토스테네스의 체](./math/Baekjoon_2950.py)
+- [Baekjoon_9375 - 패션왕 신해빈](./math/Baekjoon_9375.py)
 - 진법 변환
     - [Baekjoon_2745 - 진법 변환](./math/Baekjoon_2745.py)
     - [Baekjoon_11005 - 진법 변환2](./math/Baekjoon_11005.py)
@@ -84,4 +85,4 @@
 - [Baekjoon_2559 - 수열](./two_pointer/Baekjoon_2559.py)
 
 ### 자료 구조
-- [Baekjoon_1764 - 듣보잡](./data_structure/Baekjoon_1764.py)
+- [Baekjoon_1764 - 듣보잡](./data_structures/Baekjoon_1764.py)
