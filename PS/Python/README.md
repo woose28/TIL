@@ -86,3 +86,4 @@
 
 ### 자료 구조
 - [Baekjoon_1764 - 듣보잡](./data_structures/Baekjoon_1764.py)
+- [Baekjoon_4949 - 균형잡힌 세상](./data_structures/Baekjoon_4949.py)
