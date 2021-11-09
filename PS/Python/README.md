@@ -23,6 +23,7 @@
 - [Programmers_광고 삽입](./dynamic_programming/Programmers_광고_삽입.py)
 - [Baekjoon_1904 - 01타일](./dynamic_programming/Baekjoon_1904.py)
 - [Baekjoon_9465 - 스티커](./dynamic_programming/Baekjoon_9465.py)
+- [Baekjoon_11057 - 오르막 수](./dynamic_programming/Baekjoon_11057.py)
 
 ### 그래프
 - [Baekjoon_2644 - 촌수계산](./graph/Baekjoon_2644.py)
