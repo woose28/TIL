@@ -79,6 +79,7 @@
 - [Baekjoon_11000 - 강의실 배정](./greedy/Baekjoon_11000.py)
 - [Baekjoon_1026 - 보물](./greedy/Baekjoon_1026.py)
 - [Baekjoon_11497 - 통나무 건너뛰기](./greedy/Baekjoon_11497.py)
+- [Baekjoon_1543 - 문서 검색](./greedy/Baekjoon_1543.py)
 
 ### 조합
 - [Baekjoon_16922 - 로마 숫자 만들기](./combinatorics/Baekjoon_16922.py)
