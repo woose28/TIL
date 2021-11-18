@@ -98,3 +98,4 @@
 ### 백트래킹
 - [Baekjoon_15654 - N과 M(5)](./backtracking/Baekjoon_15654.py)
 - [Baekjoon_15655 - N과 M(6)](./backtracking/Baekjoon_15655.py)
+- [Baekjoon_15656 - N과 M(7)](./backtracking/Baekjoon_15656.py)
