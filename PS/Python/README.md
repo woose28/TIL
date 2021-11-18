@@ -63,6 +63,7 @@
 - [Baekjoon_3085 - 사탕 게임](./implementation/Baekjoon_3085.py)
 - [Baekjoon_20057 - 마법사 상어와 토네이도](./implementation/Baekjoon_20057.py)
 - [Baekjoon_17837 - 새로운 게임 2](./implementation/Baekjoon_17837.py)
+- [Baekjoon_23290 - 마법사 상어와 복제](./implementation/Baekjoon_23290.py)
 
 ### 누적 합
 - [Baekjoon_2167 - 2차원 배열의 합](./prefix_sum/Baekjoon_2167.py)
