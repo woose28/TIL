@@ -54,6 +54,7 @@
 - [Baekjoon_1072 - 게임](./binary_search/Baekjoon_1072.py)
 - [Baekjoon_2805 - 나무 자르기](./binary_search/Baekjoon_2805.py)
 - [Baekjoon_6236 - 용돈 관리](./binary_search/Baekjoon_6236.py)
+- [Baekjoon_2343 - 기타 레슨](./binary_search/Baekjoon_2343.py)
 
 ### 구현
 - [Baekjoon_21610 - 마법사 상어와 비바라기](./implementation/Baekjoon_21610.py)
