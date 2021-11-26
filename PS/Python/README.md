@@ -106,3 +106,6 @@
 - [Baekjoon_15655 - N과 M(6)](./backtracking/Baekjoon_15655.py)
 - [Baekjoon_15656 - N과 M(7)](./backtracking/Baekjoon_15656.py)
 - [Baekjoon_15657 - N과 M(8)](./backtracking/Baekjoon_15657.py)
+
+### 비트마스크
+- [Baekjoon_1052 - 물병](./bitmask.Baekjoon_1052.py)
