@@ -93,6 +93,7 @@
 - [Baekjoon_1543 - 문서 검색](./greedy/Baekjoon_1543.py)
 - [Baekjoon_4796 - 캠핑](./greedy/Baekjoon_4796.py)
 - [Baekjoon_15903 - 카드 합체 놀이](./greedy/Baekjoon_15903.py)
+- [Baekjoon_1439 - 뒤집기](./greedy/Baekjoon_1439.py)
 
 ### 조합
 - [Baekjoon_16922 - 로마 숫자 만들기](./combinatorics/Baekjoon_16922.py)
