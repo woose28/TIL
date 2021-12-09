@@ -6,6 +6,7 @@ Javscript에 대해 이전에 공부를 했던 내용과 새로 배운 내용이
 <br>
 
 ### 💻 정리한 내용
+- [이벤트 위임](./eventDelegation.md)
 
 <br>
 
