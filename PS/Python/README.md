@@ -108,6 +108,7 @@
 ### 자료 구조
 - [Baekjoon_1764 - 듣보잡](./data_structures/Baekjoon_1764.py)
 - [Baekjoon_4949 - 균형잡힌 세상](./data_structures/Baekjoon_4949.py)
+- [Baekjoon_3986 - 좋은 단어](./data_structures/Baekjoon_3986.py)
 
 ### 백트래킹
 - [Baekjoon_15654 - N과 M(5)](./backtracking/Baekjoon_15654.py)
