@@ -85,6 +85,7 @@
 ### 문자열
 - [Baekjoon_9012 - 괄호](./string/Baekjoon_9012.py)
 - [Baekjoon_17413 - 단어 뒤집기 2](./string/Baekjoon_17413.py)
+- [Baekjoon_11328 - Strfry](./string/Baekjoon_11328.py)
 
 ### 정렬
 - [Baekjoon_1755 - 숫자놀이](./sorting/Baekjoon_1755.py)
