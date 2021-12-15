@@ -81,6 +81,7 @@
 - [Baekjoon_3020 - 개똥벌레](./prefix_sum/Baekjoon_3020.py)
 - [Baekjoon_11659 - 구간 합 구하기 4](./prefix_sum/Baekjoon_11659.py)
 - [Baekjoon_11441 - 합 구하기](./prefix_sum/Baekjoon_11441.py)
+- [Baekjoon_11660 - 구간 합 구하기 5](./prefix_sum/Baekjoon_11660.py)
 
 ### 문자열
 - [Baekjoon_9012 - 괄호](./string/Baekjoon_9012.py)
