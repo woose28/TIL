@@ -10,6 +10,7 @@ Javscript에 대해 이전에 공부를 했던 내용과 새로 배운 내용이
 - [데이터 속성](./dataAttribute.md)
 - [클로저](./closure.md)
 - [싱글톤 패턴](./designPatternSingleton.md)
+- [옵저버 패턴](./designPatternObserver.md)
 
 <br>
 
