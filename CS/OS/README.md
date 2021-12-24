@@ -2,3 +2,4 @@
 - [프로세스 상태](./processState.md)
 - [스케줄러 종류](./schedulerType.md)
 - [입출력 종류](./inputOutType.md)
+- [스레드 종류](./thread.md)
