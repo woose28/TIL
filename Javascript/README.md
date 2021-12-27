@@ -12,6 +12,7 @@ Javscript에 대해 이전에 공부를 했던 내용과 새로 배운 내용이
 - [싱글톤 패턴](./designPatternSingleton.md)
 - [옵저버 패턴](./designPatternObserver.md)
 - [브라우저의 렌더링 과정](./browserRendering.md)
+- [프로퍼티](./property.md)
 
 <br>
 
