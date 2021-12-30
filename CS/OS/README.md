@@ -5,3 +5,4 @@
 - [스레드 종류](./thread.md)
 - [프로세스 생성](./processCreation.md)
 - [CPU 스케줄링](./cpuScheduling.md)
+- [프로세스 동기화](./processSynchronization.md)
