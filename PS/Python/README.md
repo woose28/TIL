@@ -115,6 +115,7 @@
 
 ### 두 포인터
 - [Baekjoon_2559 - 수열](./two_pointer/Baekjoon_2559.py)
+- [Baekjoon_2003 - 수들의 합 2](./two_pointer/Baekjoon_2003.py)
 
 ### 자료 구조
 - [Baekjoon_1764 - 듣보잡](./data_structures/Baekjoon_1764.py)
