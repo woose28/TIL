@@ -7,3 +7,4 @@
 - [CPU 스케줄링](./cpuScheduling.md)
 - [프로세스 동기화](./processSynchronization.md)
 - [교착 상태](./deadlock.md)
+- [메모리 관리](./memoryManagement.md)
