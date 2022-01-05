@@ -90,6 +90,7 @@
 - [Baekjoon_11659 - 구간 합 구하기 4](./prefix_sum/Baekjoon_11659.py)
 - [Baekjoon_11441 - 합 구하기](./prefix_sum/Baekjoon_11441.py)
 - [Baekjoon_11660 - 구간 합 구하기 5](./prefix_sum/Baekjoon_11660.py)
+- [Baekjoon_2143 - 두 배열의 합](./prefix_sum/Baekjoon_2143.py)
 
 ### 문자열
 - [Baekjoon_9012 - 괄호](./string/Baekjoon_9012.py)
@@ -131,7 +132,6 @@
 - [Baekjoon_15663 - N과 M(9)](./backtracking/Baekjoon_15663.py)
 - [Baekjoon_15663 - N과 M(11)](./backtracking/Baekjoon_15665.py)
 - [Baekjoon_16987 - 계란으로 계란치기](./backtracking/Baekjoon_16987.py)
-
 
 ### 비트마스크
 - [Baekjoon_1052 - 물병](./bitmask/Baekjoon_1052.py)
