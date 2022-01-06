@@ -8,3 +8,4 @@
 - [프로세스 동기화](./processSynchronization.md)
 - [교착 상태](./deadlock.md)
 - [메모리 관리](./memoryManagement.md)
+- [메모리 할당](./memoryAllocation.md)
