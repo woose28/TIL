@@ -141,3 +141,4 @@
 ### 재귀
 - [Baekjoon_11729 - 하노이 탑 이동 순서](./recursion/Baekjoon_11729.py)
 - [Baekjoon_1074 - Z](./recursion/Baekjoon_1074.py)
+- [Baekjoon_5568 - 카드 놓기](./recursion/Baekjoon_5568.py)
