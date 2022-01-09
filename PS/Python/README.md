@@ -29,6 +29,7 @@
 - [Baekjoon_9465 - 스티커](./dynamic_programming/Baekjoon_9465.py)
 - [Baekjoon_11057 - 오르막 수](./dynamic_programming/Baekjoon_11057.py)
 - [Baekjoon_2293 - 동전 1](./dynamic_programming/Baekjoon_2293.py)
+- [Baekjoon_11722 - 가장 긴 감소하는 부분 수열](./dynamic_programming/Baekjoon_11722.py)
 
 ### 그래프
 - [Baekjoon_2644 - 촌수계산](./graph/Baekjoon_2644.py)
