@@ -71,6 +71,7 @@
 - [Baekjoon_6236 - 용돈 관리](./binary_search/Baekjoon_6236.py)
 - [Baekjoon_2343 - 기타 레슨](./binary_search/Baekjoon_2343.py)
 - [Baekjoon_7795 - 먹을 것인가 먹힐 것인가](./binary_search/Baekjoon_7795.py)
+- [Baekjoon_12015 - 가장 긴 증가하는 부분 수열 2](./binary_search/Baekjoon_12015.py)
 
 ### 구현
 - [Baekjoon_21610 - 마법사 상어와 비바라기](./implementation/Baekjoon_21610.py)
