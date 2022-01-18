@@ -9,3 +9,4 @@
 - [교착 상태](./deadlock.md)
 - [메모리 관리](./memoryManagement.md)
 - [메모리 할당](./memoryAllocation.md)
+- [가상메모리](./virtualMemory.md)
