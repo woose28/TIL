@@ -11,3 +11,4 @@
 - [메모리 할당](./memoryAllocation.md)
 - [가상메모리](./virtualMemory.md)
 - [파일시스템](./fileSystem.md)
+- [디스크관리](./diskManagement.md)
