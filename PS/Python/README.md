@@ -51,7 +51,7 @@
 - [Baekjoon_18232 - 텔레포트 정거장](./graph/Baekjoon_18232.py)
 - [Baekjoon_14248 - 점프 점프](./graph/Baekjoon_14248.py)
 - [Baekjoon_2210 - 숫자판 점프](./graph/Baekjoon_2210.py)
-
+- [Baekjoon_9372 - 상근이의 여행](./graph//Baekjoon_9372.py)
 - 플로이드-와샬
     - [Baekjoon_11404 - 플로이드](./graph/floyd_warshall/Baekjoon_11404.py)
     - [Programmers_합승 택시 요금](./graph/floyd_warshall/Programmers_합승_택시_요금.py)
