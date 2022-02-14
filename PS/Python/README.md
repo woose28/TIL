@@ -55,6 +55,7 @@
 - 플로이드-와샬
     - [Baekjoon_11404 - 플로이드](./graph/floyd_warshall/Baekjoon_11404.py)
     - [Programmers_합승 택시 요금](./graph/floyd_warshall/Programmers_합승_택시_요금.py)
+    - [Baekjoon_11265 - 끝나지 않는 파티](./graph/floyd_warshall/Baekjoon_11265.py)
 - 다익스트라
     - [Baekjoon_1753 - 최단경로](./graph/dijkstra/Baekjoon_1753.py)
     - [Baekjoon_1916 - 최소비용 구하기](./graph/dijkstra/Baekjoon_1916.py)
