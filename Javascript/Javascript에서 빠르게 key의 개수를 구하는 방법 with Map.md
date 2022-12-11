@@ -58,9 +58,9 @@ Map 자료 구조의 경우 내부적으로 `size`프로퍼티를 가지고 있�
 <br/>
 
 # 참고 자료
-[MDN - Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
-[Stackoverflow - es6 Map and Set complexity, v8 implementation](https://stackoverflow.com/questions/33611509/es6-map-and-set-complexity-v8-implementation)
-[Stackoverflow - Object.keys() complexity?](https://stackoverflow.com/questions/7716812/object-keys-complexity)
+[MDN - Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)  
+[Stackoverflow - es6 Map and Set complexity, v8 implementation](https://stackoverflow.com/questions/33611509/es6-map-and-set-complexity-v8-implementation)  
+[Stackoverflow - Object.keys() complexity?](https://stackoverflow.com/questions/7716812/object-keys-complexity)  
 
 <br/>
 
