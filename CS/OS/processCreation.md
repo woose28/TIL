@@ -114,3 +114,7 @@ main() {
 
 ### 📚 참고 자료
 - [KOCW 운영체제 Ch.Process Management - 반효경 교수님](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+  <img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+</a>

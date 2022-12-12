@@ -201,3 +201,7 @@ do {
 - 운영체제 Ch.6 동기화 도구들 - Abraham Silberschatz 외 2인
 - [원자성 (데이터베이스 시스템) - 위키백과](https://ko.wikipedia.org/wiki/원자성_(데이터베이스_시스템))
 - [Atomic Operation이란? - 마이구미의 HelloWorld](https://mygumi.tistory.com/111)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+  <img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+</a>

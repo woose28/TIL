@@ -56,3 +56,7 @@
 - [KOCW 운영체제 Ch.Process 2 - 반효경 교수님](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
 - [Interview_Question_for_Beginnner - Part 1-4 운영체제](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/OS#스레드thread)
 - [커널 레벨 쓰레드와 유저 레벨 쓰레드](https://kspsd.tistory.com/m/50#)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+  <img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+</a>
