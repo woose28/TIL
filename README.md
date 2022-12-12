@@ -1,7 +1,7 @@
 # TIL
 하루하루 해결한 PS 문제와 새로 학습한 내용을 가벼운 마음으로 기록하는 공간입니다.  
 
-💡 더 심도있는 있는 학습을 한 다음에는 [개인 블로그](https://victor-log.vercel.app/post) 글을 작성하고 있습니다.
+💡 더 심도 있는 있는 학습을 한 다음에는 [개인 블로그](https://victor-log.vercel.app/post)에 글을 작성하고 있습니다.
 
 <br />
 
