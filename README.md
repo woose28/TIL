@@ -8,6 +8,7 @@
 ## 게시글 목록
 ### Javascript
 - [Javascript에서 빠르게 key의 개수를 구하는 방법 with Map](./Javascript/Javascript에서_빠르게_key의_개수를_구하는_방법_with_Map)
+- [다차원 배열 생성 시 주의할 점](./Javascript/다차원_배열_생성_시_주의할_점.md)
 
 <br />
 
