@@ -34,3 +34,8 @@
 ### 두 포인터
 - [Programmers_두_큐_합_같게_만들기](./two_pointer/Programmers_두_큐_합_같게_만들기.js)
 - [Programmers_보석_쇼핑](./two_pointer/Programmers_보석_쇼핑.js)
+
+<br />
+
+## 이분 탐색
+- [Programmers_징검다리_건너기](./binary_search/Programmers_징검다리_건너기.js)
