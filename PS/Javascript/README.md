@@ -39,3 +39,8 @@
 
 ## 이분 탐색
 - [Programmers_징검다리_건너기](./binary_search/Programmers_징검다리_건너기.js)
+
+<br />
+
+## 정렬
+- [Programmers_숫자_게임](./sorting/Programmers_숫자_게임.js)
