@@ -17,8 +17,9 @@
 
 <br />
 
-### 깊이 우선 탐색
-- [Programmers_경주로_건설](./graph/depth_first_search/Programmers_경주로_건설.js)
+### 깊이 우선 탐색과 너비 우선 탐색
+- [Programmers_경주로_건설](./graph/DFS_and_BFS/Programmers_경주로_건설.js)
+- [Programmers_게임_맵_최단거리](./graph/DFS_and_BFS/Programmers_게임_맵_최단거리.js)
 
 <br />
 
