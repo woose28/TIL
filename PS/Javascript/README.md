@@ -47,3 +47,8 @@
 
 ## 정렬
 - [Programmers_숫자_게임](./sorting/Programmers_숫자_게임.js)
+
+<br />
+
+## 백트래킹
+- [Baekjoon_16198 - 에너지 모으기](./backtracking/Baekjoon_16198.js)
