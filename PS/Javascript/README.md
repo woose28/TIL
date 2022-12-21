@@ -57,3 +57,6 @@
 - [Baekjoon_12018 - Yonsei TOTO](./backtracking/Baekjoon_12018.js)
 
 <br />
+
+### 브루트포스
+- [Baekjoon_3980 - 선발 명단](./brute_force/Baekjoon_3980.js)
