@@ -47,6 +47,7 @@
 
 ## 정렬
 - [Programmers_숫자_게임](./sorting/Programmers_숫자_게임.js)
+- [Baekjoon_2012 - 등수 매기기](./sorting/Baekjoon_2012.js)
 
 <br />
 
