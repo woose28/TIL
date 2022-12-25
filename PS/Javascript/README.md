@@ -63,3 +63,4 @@
 
 ### 브루트포스
 - [Baekjoon_3980 - 선발 명단](./brute_force/Baekjoon_3980.js)
+- [Baekjoon_10974 - 모든 순열](./brute_force/Baekjoon_10974.js)
