@@ -36,7 +36,7 @@
 
 <br />
 
-### 두 포인터
+## 두 포인터
 - [Programmers_두_큐_합_같게_만들기](./two_pointer/Programmers_두_큐_합_같게_만들기.js)
 - [Programmers_보석_쇼핑](./two_pointer/Programmers_보석_쇼핑.js)
 
@@ -62,6 +62,9 @@
 
 <br />
 
-### 브루트포스
+## 브루트포스
 - [Baekjoon_3980 - 선발 명단](./brute_force/Baekjoon_3980.js)
 - [Baekjoon_10974 - 모든 순열](./brute_force/Baekjoon_10974.js)
+
+## 수학
+- [Programmers_최고의_집합](./math/Programmers_최고의_집합.js)
