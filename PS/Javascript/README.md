@@ -4,6 +4,7 @@
 - [Baekjoon_1927 - 최소 힙](./data_structures/Baekjoon_1927.js)
 - [Baekjoon_1302 - 베스트셀러](./data_structures/Baekjoon_1302.js)
 - [Programmers_야근_지수](./data_structures/Programmers_야근_지수.js)
+- [Baekjoon_11279 - 최대 힙](./data_structures/Baekjoon_11279.js)
 
 <br />
 
