@@ -38,8 +38,9 @@
 </a>
 
 ### CS - Network
-- [OSI 7계층 - 애플리케이션](.CS/Network/OSI_7계층_-_애플리케이션.md)
-- [OSI 7계층 - 전송](.CS/Network/OSI_7계층_-_전송.md)
+- [OSI 7계층 - 애플리케이션](./CS/Network/OSI_7계층_-_애플리케이션.md)
+- [OSI 7계층 - 전송](./CS/Network/OSI_7계층_-_전송.md)
+- [OSI 7계층 - 네트워크](./CS/Network/OSI_7계층_-_네트워크.md)
 
 <br />
 
