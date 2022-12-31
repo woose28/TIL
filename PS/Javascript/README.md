@@ -58,6 +58,7 @@
 
 ## 백트래킹
 - [Baekjoon_16198 - 에너지 모으기](./backtracking/Baekjoon_16198.js)
+- [Baekjoon_15649 - N과 M (1)](./backtracking/Baekjoon_15649.js)
 
 ## 그리디
 - [Baekjoon_12018 - Yonsei TOTO](./greedy/Baekjoon_12018.js)
