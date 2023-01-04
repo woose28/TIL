@@ -6,6 +6,7 @@
 - [Programmers_야근_지수](./data_structures/Programmers_야근_지수.js)
 - [Baekjoon_11279 - 최대 힙](./data_structures/Baekjoon_11279.js)
 - [Programmers_괄호_회전하기](./data_structures/Programmers_괄호_회전하기.js)
+- [Programmers_할인_행사](./data_structures/Programmers_할인_행사.js)
 
 <br />
 
