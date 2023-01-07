@@ -13,6 +13,7 @@
 ## 동적 프로그래밍
 - [Programmers_코딩_테스트_공부](./dynamic_programming/Programmers_코딩_테스트_공부.js)
 - [Programmers_스티커_모으기(2)](./dynamic_programming/Programmers_스티커_모으기(2).js)
+- [Programmers_2_x_n_타일링](./dynamic_programming/Programmers_2_x_n_타일링.js)
 
 <br />
 
