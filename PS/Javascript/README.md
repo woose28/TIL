@@ -8,6 +8,7 @@
 - [Programmers_괄호_회전하기](./data_structures/Programmers_괄호_회전하기.js)
 - [Programmers_할인_행사](./data_structures/Programmers_할인_행사.js)
 - [Programmers_베스트앨범](./data_structures/Programmers_베스트앨범.js)
+- [Programmers_다리를_지나는_트럭](./data_structures/Programmers_다리를_지나는_트럭.js)
 
 <br />
 
