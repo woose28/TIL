@@ -77,6 +77,7 @@
 ## 브루트포스
 - [Baekjoon_3980 - 선발 명단](./brute_force/Baekjoon_3980.js)
 - [Baekjoon_10974 - 모든 순열](./brute_force/Baekjoon_10974.js)
+- [Programmers_전력망을_둘로_나누기](./brute_force/Programmers_전력망을_둘로_나누기.js)
 
 ## 수학
 - [Programmers_최고의_집합](./math/Programmers_최고의_집합.js)
