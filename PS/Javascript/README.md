@@ -10,6 +10,7 @@
 - [Programmers_베스트앨범](./data_structures/Programmers_베스트앨범.js)
 - [Programmers_다리를_지나는_트럭](./data_structures/Programmers_다리를_지나는_트럭.js)
 - [Baekjoon_2295 - 세 수의 합](./data_structures/Baekjoon_2295.js)
+- [Programmers_올바른_괄호](./data_structures/Programmers_올바른_괄호.js)
 
 <br />
 
