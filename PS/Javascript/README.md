@@ -46,6 +46,7 @@
 
 ## 문자열
 - [Programmers_옹알이_(2)](./string/Programmers_옹알이_(2).js)
+- [Programmers_옹알이_(1)](./string/Programmers_옹알이_(1).js)
 
 <br />
 
