@@ -87,6 +87,7 @@
 ## 수학
 - [Programmers_최고의_집합](./math/Programmers_최고의_집합.js)
 - [Programmers_평행](./math/Programmers_평행.js)
+- [Baekjoon_14761](./math/Baekjoon_14761.js)
 
 ## 재귀
 - [Programmers_쿼드압축_후_개수_세기](./recursion/Programmers_쿼드압축_후_개수_세기.js);
