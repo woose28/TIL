@@ -89,7 +89,7 @@
 ## 수학
 - [Programmers_최고의_집합](./math/Programmers_최고의_집합.js)
 - [Programmers_평행](./math/Programmers_평행.js)
-- [Baekjoon_14761](./math/Baekjoon_14761.js)
+- [Baekjoon_14761 - FizzBuzz](./math/Baekjoon_14761.js)
 - [Programmers_겹치는_선분의_길이](./math/Programmers_겹치는_선분의_길이.js)
 
 ## 재귀
