@@ -21,6 +21,7 @@
 - [Programmers_스티커_모으기(2)](./dynamic_programming/Programmers_스티커_모으기(2).js)
 - [Programmers_2_x_n_타일링](./dynamic_programming/Programmers_2_x_n_타일링.js)
 - [Programmers_N으로_표현](./dynamic_programming/Programmers_N으로_표현.js)
+- [Baekjoon_11048 - 이동하기](./dynamic_programming/Baekjoon_11048.js)
 
 <br />
 
