@@ -57,6 +57,7 @@
 ## 두 포인터
 - [Programmers_두_큐_합_같게_만들기](./two_pointer/Programmers_두_큐_합_같게_만들기.js)
 - [Programmers_보석_쇼핑](./two_pointer/Programmers_보석_쇼핑.js)
+- [Baekjoon_2230 - 수 고르기](./two_pointer/Baekjoon_2230.js)
 
 <br />
 
