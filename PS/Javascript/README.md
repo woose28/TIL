@@ -13,6 +13,7 @@
 - [Programmers_올바른_괄호](./data_structures/Programmers_올바른_괄호.js)
 - [Programmers_폰켓몬](./data_structures/Programmers_폰켓몬.js)
 - [Programmers_같은_숫자는_싫어](./data_structures/Programmers_같은_숫자는_싫어.js)
+- [Baekjoon_14425 - 문자열 집합](./data_structures/Baekjoon_14425.js)
 
 <br />
 
