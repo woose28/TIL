@@ -80,6 +80,7 @@
 - [Baekjoon_15650 - N과 M (2)](./backtracking/Baekjoon_15650.js)
 - [Baekjoon_15651 - N과 M (3)](./backtracking/Baekjoon_15651.js)
 - [Baekjoon_15652 - N과 M (4)](./backtracking/Baekjoon_15652.js)
+- [Baekjoon_15654 - N과 M (5)](./backtracking/Baekjoon_15654.js)
 
 
 ## 그리디
