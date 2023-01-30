@@ -65,6 +65,7 @@
 ## 이분 탐색
 - [Programmers_징검다리_건너기](./binary_search/Programmers_징검다리_건너기.js)
 - [Baekjoon_11561 - 징검다리](./binary_search/Baekjoon_11561.js)
+- [Baekjoon_11663 - 선분 위의 점](./binary_search/Baekjoon_11663.js)
 
 <br />
 
