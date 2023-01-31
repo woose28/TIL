@@ -46,6 +46,7 @@
 - [Programmers_기지국_설치](./implementation/Programmers_기지국_설치.js)
 - [Baekjoon - 토끼의 이동](./implementation/Baekjoon_3101.js)
 - [Programmers_안전지대](./implementation/Programmers_안전지대.js)
+- [Baekjoon - 색종이](./implementation/Baekjoon_2563.js)
 
 <br />
 
