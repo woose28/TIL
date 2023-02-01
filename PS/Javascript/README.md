@@ -47,6 +47,7 @@
 - [Baekjoon - 토끼의 이동](./implementation/Baekjoon_3101.js)
 - [Programmers_안전지대](./implementation/Programmers_안전지대.js)
 - [Baekjoon - 색종이](./implementation/Baekjoon_2563.js)
+- [Baekjoon - 그룹 단어 체커](./implementation/Baekjoon_1316.js)
 
 <br />
 
