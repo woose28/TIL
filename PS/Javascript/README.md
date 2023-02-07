@@ -51,6 +51,7 @@
 - [Baekjoon - 색종이](./implementation/Baekjoon_2563.js)
 - [Baekjoon - 그룹 단어 체커](./implementation/Baekjoon_1316.js)
 - [Baekjoon - 달팽이](./implementation/Baekjoon_1913.js)
+- [Baekjoon_7568 - 덩치](./implementation/Baekjoon_7568.js)
 
 <br />
 
