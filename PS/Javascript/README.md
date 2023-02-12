@@ -55,6 +55,7 @@
 - [Baekjoon_11866 - 요세푸스 문제 0](./implementation/Baekjoon_11866.js)
 - [Baekjoon_2161 - 카드1](./implementation/Baekjoon_2161.js)
 - [Baekjoon_1343 - 폴리오미노](./implementation/Baekjoon_1343.js)
+- [Baekjoon_10973 - 이전 순열](./implementation/Baekjoon_10973.js)
 
 <br />
 
