@@ -56,6 +56,7 @@
 - [Baekjoon_2161 - 카드1](./implementation/Baekjoon_2161.js)
 - [Baekjoon_1343 - 폴리오미노](./implementation/Baekjoon_1343.js)
 - [Baekjoon_10973 - 이전 순열](./implementation/Baekjoon_10973.js)
+- [Baekjoon_2659 - 십자카드 문제](./implementation/Baekjoon_2659.js)
 
 <br />
 
