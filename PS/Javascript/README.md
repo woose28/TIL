@@ -59,6 +59,7 @@
 - [Baekjoon_2659 - 십자카드 문제](./implementation/Baekjoon_2659.js)
 - [Baekjoon_2828 - 사과 담기 게임](./implementation/Baekjoon_2828.js)
 - [Baekjoon_1652 - 누울 자리를 찾아라](./implementation/Baekjoon_1652.js)
+- [Baekjoon_1531 - 투명](./implementation/Baekjoon_1531.js)
 
 <br />
 
