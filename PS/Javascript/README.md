@@ -61,6 +61,7 @@
 - [Baekjoon_1652 - 누울 자리를 찾아라](./implementation/Baekjoon_1652.js)
 - [Baekjoon_1531 - 투명](./implementation/Baekjoon_1531.js)
 - [Baekjoon_1110 - 더하기 사이클](./implementation/Baekjoon_1110.js)
+- [Baekjoon_1388 - 바닥 장식](./implementation/Baekjoon_1388.js)
 
 <br />
 
