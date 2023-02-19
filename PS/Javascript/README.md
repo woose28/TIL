@@ -121,6 +121,7 @@
 - [Programmers_겹치는_선분의_길이](./math/Programmers_겹치는_선분의_길이.js)
 - [Programmers_최소직사각형](./math/Programmers_최소직사각형.js)
 - [Baekjoon_2108 - 통계학](./math/Baekjoon_2108.js)
+- [Baekjoon_14916 - 거스름돈](./math/Baekjoon_14916.js)
 
 ## 재귀
 - [Programmers_쿼드압축_후_개수_세기](./recursion/Programmers_쿼드압축_후_개수_세기.js);
