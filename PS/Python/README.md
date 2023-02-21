@@ -32,6 +32,7 @@
 - [Baekjoon_2293 - 동전 1](./dynamic_programming/Baekjoon_2293.py)
 - [Baekjoon_11722 - 가장 긴 감소하는 부분 수열](./dynamic_programming/Baekjoon_11722.py)
 - [Baekjoon_1038 - 감소하는 수](./dynamic_programming/Baekjoon_1038.py)
+- [Baekjoon_17070 - 파이프 옮기기 1](./dynamic_programming/Baekjoon_17070.py)
 
 ### 그래프
 - [Baekjoon_2644 - 촌수계산](./graph/Baekjoon_2644.py)
