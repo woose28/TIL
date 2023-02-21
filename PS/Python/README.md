@@ -116,6 +116,7 @@
 ### 정렬
 - [Baekjoon_1755 - 숫자놀이](./sorting/Baekjoon_1755.py)
 - [Baekjoon_11931 - 수 정렬하기 4](./sorting/Baekjoon_11931.py)
+- [Baekjoon_1181 - 단어 정렬](./sorting/Baekjoon_1181.py)
 
 ### 그리디
 - [Baekjoon_11000 - 강의실 배정](./greedy/Baekjoon_11000.py)
