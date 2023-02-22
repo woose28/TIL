@@ -130,6 +130,7 @@
 ### 조합
 - [Baekjoon_16922 - 로마 숫자 만들기](./combinatorics/Baekjoon_16922.py)
 - [Baekjoon_6603 - 로또](./combinatorics/Baekjoon_6603.py)
+- [Baekjoon_1759 - 암호 만들기](./combinatorics/Baekjoon_1759.py)
 
 ### 두 포인터
 - [Baekjoon_2559 - 수열](./two_pointer/Baekjoon_2559.py)
