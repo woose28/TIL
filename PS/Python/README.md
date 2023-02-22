@@ -164,3 +164,6 @@
 - [Baekjoon_1074 - Z](./recursion/Baekjoon_1074.py)
 - [Baekjoon_5568 - 카드 놓기](./recursion/Baekjoon_5568.py)
 - [Baekjoon_1914 - 하노이탑](./recursion/Baekjoon_1914.py)
+
+### 트리
+- [Baekjoon_1991 - 트리 순회](./tree/Baekjoon_1991.py)
