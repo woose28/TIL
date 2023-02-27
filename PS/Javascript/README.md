@@ -40,6 +40,7 @@
 - [Programmers_불량_사용자](./graph/DFS_and_BFS/Programmers_불량_사용자.js)
 - [Programmers_양궁대회](./graph/DFS_and_BFS/Programmers_양궁대회.js)
 - [Baekjoon - 헌내기는 친구가 필요해](./graph/DFS_and_BFS/Baekjoon_21736.js)
+- [Baekjoon_12852 - 1로 만들기 2](./graph/DFS_and_BFS/Baekjoon_12852.js)
 
 <br />
 
