@@ -106,6 +106,7 @@
 - [Baekjoon_1461 - 도서관](./greedy/Baekjoon_1461.js)
 - [Baekjoon_1105 - 팔](./greedy/Baekjoon_1105.js)
 - [Baekjoon_18310 - 안테나](./greedy/Baekjoon_18310.js)
+- [Baekjoon_16435 - 스네이크버드](./greedy/Baekjoon_16435.js)
 
 <br />
 
