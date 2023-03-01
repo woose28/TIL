@@ -69,6 +69,7 @@
 ## 문자열
 - [Programmers_옹알이_(2)](./string/Programmers_옹알이_(2).js)
 - [Programmers_옹알이_(1)](./string/Programmers_옹알이_(1).js)
+- [Baekjoon_1254 - 팰린드롬 만들기](./string/Baekjoon_1254.js)
 
 <br />
 
