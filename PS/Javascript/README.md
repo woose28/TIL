@@ -134,3 +134,6 @@
 
 ## 누적 합
 - [Baekjoon_10211 - Maximum Subarray](./prefix_sum/Baekjoon_10211.js)
+
+## 세그먼트 트리
+- [Baekjoon_2042 - 구간 합 구하기](./segment_tree/Baekjoon_2042.js)
