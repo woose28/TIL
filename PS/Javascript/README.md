@@ -15,6 +15,7 @@
 - [Programmers_같은_숫자는_싫어](./data_structures/Programmers_같은_숫자는_싫어.js)
 - [Baekjoon_14425 - 문자열 집합](./data_structures/Baekjoon_14425.js)
 - [Baekjoon_10799 - 쇠막대기](./data_structures/Baekjoon_10799.js)
+- [Baekjoon_10773 - 제로](./data_structures/Baekjoon_10773.js)
 
 <br />
 
