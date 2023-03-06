@@ -129,6 +129,7 @@
 - [Programmers_최소직사각형](./math/Programmers_최소직사각형.js)
 - [Baekjoon_2108 - 통계학](./math/Baekjoon_2108.js)
 - [Baekjoon_14916 - 거스름돈](./math/Baekjoon_14916.js)
+- [Baekjoon_9655 - 돌 게임](./math/Baekjoon_9655.js)
 
 ## 재귀
 - [Programmers_쿼드압축_후_개수_세기](./recursion/Programmers_쿼드압축_후_개수_세기.js);
