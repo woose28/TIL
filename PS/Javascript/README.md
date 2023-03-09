@@ -132,6 +132,7 @@
 - [Baekjoon_14916 - 거스름돈](./math/Baekjoon_14916.js)
 - [Baekjoon_9655 - 돌 게임](./math/Baekjoon_9655.js)
 - [Baekjoon_1402 - 아무래도이문제는A번난이도인것같다](./math/Baekjoon_1402.js)
+- [Baekjoon_19939 - 박 터뜨리기](./math/Baekjoon_19939.js)
 
 ## 재귀
 - [Programmers_쿼드압축_후_개수_세기](./recursion/Programmers_쿼드압축_후_개수_세기.js);
