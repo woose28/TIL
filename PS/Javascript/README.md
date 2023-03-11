@@ -134,6 +134,7 @@
 - [Baekjoon_1402 - 아무래도이문제는A번난이도인것같다](./math/Baekjoon_1402.js)
 - [Baekjoon_19939 - 박 터뜨리기](./math/Baekjoon_19939.js)
 - [Baekjoon_1057 - 토너먼트](./math/Baekjoon_1057.js)
+- [Baekjoon_14241 - 슬라임 합치기](./math/Baekjoon_14241.js)
 
 ## 재귀
 - [Programmers_쿼드압축_후_개수_세기](./recursion/Programmers_쿼드압축_후_개수_세기.js);
