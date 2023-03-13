@@ -145,3 +145,6 @@
 
 ## 세그먼트 트리
 - [Baekjoon_2042 - 구간 합 구하기](./segment_tree/Baekjoon_2042.js)
+
+## 기하학
+- [Baekjoon_2166 - 다각형의 면적](./geometry/baekjoon_2166.js)
