@@ -115,6 +115,7 @@
 - [Baekjoon_16435 - 스네이크버드](./greedy/Baekjoon_16435.js)
 - [Baekjoon_1417 - 국회의원 선거](./greedy/Baekjoon_1417.js)
 - [Baekjoon_3135 - 라디오](./greedy/Baekjoon_3135.js)
+- [Baekjoon_19564 - 반복](./greedy/Baekjoon_19564.js)
 
 <br />
 
