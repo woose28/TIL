@@ -119,6 +119,7 @@
 - [Baekjoon_3135 - 라디오](./greedy/Baekjoon_3135.js)
 - [Baekjoon_19564 - 반복](./greedy/Baekjoon_19564.js)
 - [Baekjoon_25176 - 청정수열 (Easy)](./greedy/Baekjoon_25176.js)
+- [Baekjoon_12782 - 비트 우정지수](./greedy/Baekjoon_12782.js)
 
 <br />
 
