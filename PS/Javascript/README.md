@@ -26,6 +26,7 @@
 - [Programmers_N으로_표현](./dynamic_programming/Programmers_N으로_표현.js)
 - [Baekjoon_11048 - 이동하기](./dynamic_programming/Baekjoon_11048.js)
 - [Baekjoon_10942 - 팰린드롬?](./dynamic_programming/Baekjoon_10942.js)
+- [Baekjoon_9658 - 돌 게임 4](./dynamic_programming/Baekjoon_9658.js)
 
 <br />
 
