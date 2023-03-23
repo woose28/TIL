@@ -121,6 +121,7 @@
 - [Baekjoon_25176 - 청정수열 (Easy)](./greedy/Baekjoon_25176.js)
 - [Baekjoon_12782 - 비트 우정지수](./greedy/Baekjoon_12782.js)
 - [Baekjoon_1758 - 알바생 강호](./greedy/Baekjoon_1758.js)
+- [Baekjoon_1817 - 짐 챙기는 숌](./greedy/Baekjoon_1817.js)
 
 <br />
 
