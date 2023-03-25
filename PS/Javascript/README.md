@@ -123,6 +123,7 @@
 - [Baekjoon_1758 - 알바생 강호](./greedy/Baekjoon_1758.js)
 - [Baekjoon_1817 - 짐 챙기는 숌](./greedy/Baekjoon_1817.js)
 - [Baekjoon_12927 - 배수 스위치](./greedy/Baekjoon_12927.js)
+- [Baekjoon_12845 - 모두의 마블](./greedy/Baekjoon_12845.js)
 
 <br />
 
