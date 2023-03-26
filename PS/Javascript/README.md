@@ -124,6 +124,7 @@
 - [Baekjoon_1817 - 짐 챙기는 숌](./greedy/Baekjoon_1817.js)
 - [Baekjoon_12927 - 배수 스위치](./greedy/Baekjoon_12927.js)
 - [Baekjoon_12845 - 모두의 마블](./greedy/Baekjoon_12845.js)
+- [Baekjoon_17262 - 팬덤이 넘쳐흘러](./greedy/Baekjoon_17262.js)
 
 <br />
 
