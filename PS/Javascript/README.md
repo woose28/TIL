@@ -126,6 +126,7 @@
 - [Baekjoon_12845 - 모두의 마블](./greedy/Baekjoon_12845.js)
 - [Baekjoon_17262 - 팬덤이 넘쳐흘러](./greedy/Baekjoon_17262.js)
 - [Baekjoon_25496 - 장신구 명장 임스](./greedy/Baekjoon_25496.js)
+- [Baekjoon_19941 - 햄버거 분배](./greedy/Baekjoon_19941.js)
 
 <br />
 
