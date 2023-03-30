@@ -45,6 +45,7 @@
 - [Baekjoon - 헌내기는 친구가 필요해](./graph/DFS_and_BFS/Baekjoon_21736.js)
 - [Baekjoon_12852 - 1로 만들기 2](./graph/DFS_and_BFS/Baekjoon_12852.js)
 - [Baekjoon_16948 - 데스 나이트](./graph/DFS_and_BFS/Baekjoon_16948.js)
+- [Baekjoon_11123 - 양 한마리... 양 두마리...](./graph/DFS_and_BFS/Baekjoon_11123.js)
 
 <br />
 
