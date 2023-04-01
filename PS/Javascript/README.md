@@ -70,6 +70,7 @@
 - [Baekjoon_1110 - 더하기 사이클](./implementation/Baekjoon_1110.js)
 - [Baekjoon_1388 - 바닥 장식](./implementation/Baekjoon_1388.js)
 - [Baekjoon_2477 - 참외밭](./implementation/Baekjoon_2477.js)
+- [Baekjoon_2503 - 숫자야구](./implementation/Baekjoon_2503.js)
 
 <br />
 
