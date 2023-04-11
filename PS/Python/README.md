@@ -104,6 +104,7 @@
 - [Programmers_대충 만든 자판](./implementation/Programmers_대충_만든_자판.py)
 - [Programmers_공원 산책](./implementation/Programmers_공원_산책.py)
 - [Programmers_달리기 경주](./implementation/Programmers_달리기_경주.py)
+- [Programmers_추억 점수](./implementation/Programmers_추억_점수.py)
 
 ### 누적 합
 - [Baekjoon_2167 - 2차원 배열의 합](./prefix_sum/Baekjoon_2167.py)
