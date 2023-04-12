@@ -73,6 +73,7 @@
 - [Baekjoon_2503 - 숫자야구](./implementation/Baekjoon_2503.js)
 - [Baekjoon_2567 - 색종이 - 2](./implementation/Baekjoon_2567.js)
 - [Baekjoon_1063 - 킹](./implementation/Baekjoon_1063.js)
+- [Programmers_기사단원의_무기](./implementation/Programmers_기사단원의_무기.js)
 
 <br />
 
