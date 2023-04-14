@@ -159,6 +159,7 @@
 - [Baekjoon_1057 - 토너먼트](./math/Baekjoon_1057.js)
 - [Baekjoon_14241 - 슬라임 합치기](./math/Baekjoon_14241.js)
 - [Baekjoon_3036 - 링](./math/Baekjoon_3036.js)
+- [Programmers_다음_큰_숫자](./math/Programmers_다음_큰_숫자.js)
 
 ## 재귀
 - [Programmers_쿼드압축_후_개수_세기](./recursion/Programmers_쿼드압축_후_개수_세기.js);
