@@ -106,6 +106,7 @@
 - [Baekjoon_2012 - 등수 매기기](./sorting/Baekjoon_2012.js)
 - [Baekjoon_1427 - 소트인사이드](./sorting/Baekjoon_1427.js)
 - [Baekjoon_11650 - 좌표 정렬하기](./sorting/Baekjoon_11650.js)
+- [Programmers_과일_장수](./sorting/Programmers_과일_장수.js)
 
 <br />
 
