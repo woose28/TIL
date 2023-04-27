@@ -111,6 +111,7 @@
 - [Bakejoon_20055 - 컨베이어 벨트 위의 로봇](./implementation/Baekjoon_20055.py)
 - [Bakejoon_2564 - 경비원](./implementation/Baekjoon_2564.py)
 - [Bakejoon_3987 - 보이저 1호](./implementation/Baekjoon_3987.py)
+- [Bakejoon_2578 - 빙고](./implementation/Baekjoon_2578.py)
 
 ### 누적 합
 - [Baekjoon_2167 - 2차원 배열의 합](./prefix_sum/Baekjoon_2167.py)
