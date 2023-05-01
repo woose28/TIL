@@ -126,6 +126,7 @@
 - [Baekjoon_17413 - 단어 뒤집기 2](./string/Baekjoon_17413.py)
 - [Baekjoon_11328 - Strfry](./string/Baekjoon_11328.py)
 - [Baekjoon_13413 - 오셀로 재배치](./string/Baekjoon_13413.py)
+- [Programmers_크기가 작은 부분 문자열](./implementation/Programmers_크기가_작은_부분_문자열.py)
 
 ### 정렬
 - [Baekjoon_1755 - 숫자놀이](./sorting/Baekjoon_1755.py)
