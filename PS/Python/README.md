@@ -36,6 +36,7 @@
 - [Baekjoon_17070 - 파이프 옮기기 1](./dynamic_programming/Baekjoon_17070.py)
 - [Baekjoon_18353 - 병사 배치하기](./dynamic_programming/Baekjoon_18353.py)
 - [Baekjoon_1309 - 동물원](./dynamic_programming/Baekjoon_1309.py)
+- [Baekjoon_1495 - 기타리스트](./dynamic_programming/Baekjoon_1495.py)
 
 ### 그래프
 - [Baekjoon_2644 - 촌수계산](./graph/Baekjoon_2644.py)
