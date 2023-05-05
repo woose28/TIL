@@ -13,6 +13,7 @@
 - [Baekjoon_2292 - 벌집](./math/Baekjoon_2292.py)
 - [Baekjoon_1676 - 팩토리얼 0의 개수](./math/Baekjoon_1676.py)
 - [Baekjoon_1448 - 삼각형 만들기](./math/Baekjoon_1448.py)
+- [Baekjoon_1500 - 최대 곱](./math/Baekjoon_1500.py)
 - 진법 변환
     - [Baekjoon_2745 - 진법 변환](./math/Baekjoon_2745.py)
     - [Baekjoon_11005 - 진법 변환2](./math/Baekjoon_11005.py)
