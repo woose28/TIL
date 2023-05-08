@@ -10,3 +10,4 @@
 - [Programmers_조건에_맞는_사용자와_총_거래금액_조회하기.sql](./Programmers_조건에_맞는_사용자와_총_거래금액_조회하기.sql)
 - [Programmers_조건별로_분류하여_주문상태_출력하기.sql](./Programmers_조건별로_분류하여_주문상태_출력하기.sql)
 - [Programmers_있었는데요_없었습니다.sql](./Programmers_있었는데요_없었습니다.sql)
+- [Programmers_없어진_기록_찾기.sql](./Programmers_없어진_기록_찾기.sql)
