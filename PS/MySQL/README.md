@@ -11,3 +11,4 @@
 - [Programmers_조건별로_분류하여_주문상태_출력하기.sql](./Programmers_조건별로_분류하여_주문상태_출력하기.sql)
 - [Programmers_있었는데요_없었습니다.sql](./Programmers_있었는데요_없었습니다.sql)
 - [Programmers_없어진_기록_찾기.sql](./Programmers_없어진_기록_찾기.sql)
+- [Programmers_경기도에_위치한_식품창고_목록_출력하기.sql](./Programmers_경기도에_위치한_식품창고_목록_출력하기.sql)
