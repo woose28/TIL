@@ -12,3 +12,4 @@
 - [Programmers_있었는데요_없었습니다.sql](./Programmers_있었는데요_없었습니다.sql)
 - [Programmers_없어진_기록_찾기.sql](./Programmers_없어진_기록_찾기.sql)
 - [Programmers_경기도에_위치한_식품창고_목록_출력하기.sql](./Programmers_경기도에_위치한_식품창고_목록_출력하기.sql)
+- [Programmers_자동차_대여_기록에서_대여중_대여_가능_여부_구분하기.sql](./Programmers_자동차_대여_기록에서_대여중_대여_가능_여부_구분하기.sql)
