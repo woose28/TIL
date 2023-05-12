@@ -116,6 +116,7 @@
 - [Bakejoon_3987 - 보이저 1호](./implementation/Baekjoon_3987.py)
 - [Bakejoon_2578 - 빙고](./implementation/Baekjoon_2578.py)
 - [Softeer_복잡한 조립 라인1](./implementation/Softeer_복잡한_조립라인1.py)
+- [Softeer_징검 다리](./implementation/Softeer_징검다리.py)
 
 ### 누적 합
 - [Baekjoon_2167 - 2차원 배열의 합](./prefix_sum/Baekjoon_2167.py)
