@@ -66,7 +66,6 @@
 - [Baekjoon_4485 - 녹색 옷 입은 애가 젤다지?](./graph/Baekjoon_4485.py)
 - [Baekjoon_18404 - 현명한 나이트](./graph/Baekjoon_18404.py)
 - [Programmers_미로 탈출](./graph/Programmers_미로_탈출.py)
-- [Baekjoon_1197 - 최소 스패닝 트리](./graph/Baekjoon_1197.py)
 - 플로이드-와샬
     - [Baekjoon_11404 - 플로이드](./graph/floyd_warshall/Baekjoon_11404.py)
     - [Programmers_합승 택시 요금](./graph/floyd_warshall/Programmers_합승_택시_요금.py)
@@ -78,6 +77,9 @@
     - [Baekjoon_1238 - 파티](./graph/dijkstra/Baekjoon_1238.py)
     - [Baekjoon_1446 - 지름길](./graph/dijkstra/Baekjoon_1446.py)
     - [Baekjoon_1389 - 케빈 베이컨의 6단계 법칙](./graph/dijkstra/Baekjoon_1389.py)
+- 최소 스패닝 트리
+    - [Baekjoon_1197 - 최소 스패닝 트리](./graph/minimum_spanning_tree/Baekjoon_1197.py)
+    - [Baekjoon_1647 - 도시 분할 계획](./graph/minimum_spanning_tree/Baekjoon_1647.py)
 
 ### 이분 탐색
 - [Baekjoon_1920 - 수 찾기](./binary_search/Baekjoon_1920.py)
