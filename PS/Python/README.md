@@ -163,6 +163,7 @@
 - [Baekjoon_1940 - 주몽](./two_pointer/Baekjoon_1940.py)
 - [Baekjoon_15565 - 귀여운 라이언](./two_pointer/Baekjoon_15565.py)
 - [Baekjoon_2467 - 용액](./two_pointer/Baekjoon_2467.py)
+- [Baekjoon_1806 - 부분합](./two_pointer/Baekjoon_1806.py)
 
 ### 자료 구조
 - [Baekjoon_1764 - 듣보잡](./data_structures/Baekjoon_1764.py)
