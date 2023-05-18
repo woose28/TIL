@@ -198,3 +198,6 @@
 
 ### 슬라이딩 윈도우
 - [Baekjoon_21921 - 블로그](./sliding_window/Baekjoon_21921.py)
+
+### 분리 집합
+- [Baekjoon_20040 - 사이클 게임](./disjoint_set/Baekjoon_20040.py)
