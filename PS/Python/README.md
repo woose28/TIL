@@ -42,6 +42,7 @@
 - [Baekjoon_1495 - 기타리스트](./dynamic_programming/Baekjoon_1495.py)
 - [Softeer_수퍼바이러스](./dynamic_programming/Softeer_수퍼바이러스.py)
 - [Baekjoon_9251 - LCS](./dynamic_programming/Baekjoon_9251.py)
+- [Baekjoon_9252 - LCS 2](./dynamic_programming/Baekjoon_9252.py)
 
 ### 그래프
 - [Baekjoon_2644 - 촌수계산](./graph/Baekjoon_2644.py)
