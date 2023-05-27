@@ -69,6 +69,7 @@
 - [Baekjoon_4485 - 녹색 옷 입은 애가 젤다지?](./graph/Baekjoon_4485.py)
 - [Baekjoon_18404 - 현명한 나이트](./graph/Baekjoon_18404.py)
 - [Programmers_미로 탈출](./graph/Programmers_미로_탈출.py)
+- [Baekjoon_2252 - 줄 세우기](./graph/Baekjoon_2252.py)
 - 플로이드-와샬
     - [Baekjoon_11404 - 플로이드](./graph/floyd_warshall/Baekjoon_11404.py)
     - [Programmers_합승 택시 요금](./graph/floyd_warshall/Programmers_합승_택시_요금.py)
