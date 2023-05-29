@@ -128,6 +128,7 @@
 - [Swea_1206](./implementation/Swea_1206.py)
 - [Bakejoon_1158 - 요세푸스 문제](./implementation/Baekjoon_1158.py)
 - [Bakejoon_1996 - 지뢰 찾기](./implementation/Baekjoon_1996.py)
+- [Bakejoon_16931 - 겉넓이 구하기](./implementation/Baekjoon_16931.py)
 
 ### 누적 합
 - [Baekjoon_2167 - 2차원 배열의 합](./prefix_sum/Baekjoon_2167.py)
